@@ -1,0 +1,13 @@
+# Definimos un laberinto que se autoresuelve siguiendo ciertos moviminetos.   
+
+# Verificamos que la posición sea válida
+
+# Marcamos como visitado
+
+# Actualizamos la visualización
+
+# encontramos la solución
+
+# moviminetos : Abajo - Derecha - Izquierda - Arriba
+
+# Retrocede si no es el camino correcto

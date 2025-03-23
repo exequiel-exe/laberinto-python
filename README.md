@@ -1,5 +1,3 @@
-﻿# Laberinto en Python
-# Laberinto en Python
 # 🏁 Laberinto en Python 🏁
 
 Este proyecto es una representación visual de un laberinto generado con Python y Matplotlib.

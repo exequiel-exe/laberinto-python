@@ -15,4 +15,4 @@ Este proyecto es una representación visual de un laberinto generado con Python 
 ## 📸 Capturas de Pantalla  
 Aquí puedes ver un ejemplo del laberinto generado:  
 
-![Laberinto generado](images/laberinto resuelto_.png)
+![Laberinto generado](images/Laberinto resuelto_.png)
